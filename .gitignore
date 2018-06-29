@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 */node_modules
+=======
+authinnode/node_modules
+cookiesinnode/node_modules
+mongooseandnode/node_modules
+test/node_modules
+>>>>>>> e657a7e12a7a40a4fd8450cd8e5f7f8e9e79e3b7
